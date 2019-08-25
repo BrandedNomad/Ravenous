@@ -25,6 +25,7 @@
     font-weight: 600;
     font-size: .83rem;
     transition: color .25s;
+    font-family: Poppins, sans-serif;
 }
 
 .SearchBar-sort-options li:hover {
